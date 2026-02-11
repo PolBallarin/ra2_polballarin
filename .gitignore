@@ -1,0 +1,7 @@
+# Ignorar todo
+*
+
+# Permitir solo los scripts principales
+!main.py
+!main_threads.py
+!.gitignore
