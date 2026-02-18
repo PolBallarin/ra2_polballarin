@@ -7,3 +7,4 @@
 !.gitignore
 !reporte_volumetrico.ipynb
 !polymarket_etl.ipynb
+!upload_rawdata_s3.py
